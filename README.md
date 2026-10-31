@@ -9,7 +9,7 @@
 
 - A simple React Expense Tracker Application that helps users to manage personal finances and keeping track of their financial expenditures 
 - Inputting income amount and expenses, user can view their balance, income and total expense
-- User can add new expenses with details such as name, category, and amount
+- User can add new expenses with details such as category, amount, and date
 - User can display a list of expenses clicking add expense button
 
 ## Built with
